@@ -1,3 +1,3 @@
 # gdbasic
 
-Golang Developers Basic
+Golang Developer Basic
